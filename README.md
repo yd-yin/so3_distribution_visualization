@@ -10,6 +10,8 @@ However, we did not find the released code on this visualization.
 
 This implementation was used in [3] ([Project page](https://pku-epic.github.io/RotationLaplace/)). Please consider citing [3] if you find this implementation helpful.
 
+This implementation may not be perfect. Feel free to raise issues if you have better ideas.
+
 ```bibtex
 @article{yin2023laplace,
   title={A Laplace-inspired Distribution on SO(3) for Probabilistic Rotation Estimation},
